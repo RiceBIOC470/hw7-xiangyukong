@@ -1,4 +1,14 @@
 %HW7
+%GB comments
+1a 100
+1b 100 
+1c 100
+1d 100
+2a 100
+2b 95 had to change db (matlab function) to dB (your defined variable). 
+2c  0 no work provided. 
+Overall:85
+
 
 % Problem 1: Modeling population growth
 % The simplest model for a growing population assumes that each current
